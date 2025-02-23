@@ -1,7 +1,10 @@
+![Shu-han Chuang](https://github.com/user-attachments/assets/3b5d7263-e2e6-4d22-9ac1-345ba2d5f9d9)
+
 <h1 align="center">Hi 👋, I'm Shu-han</h1>
 <h3 align="center">A passionate developer</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/shu-hanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shu-hanc" height="30" width="40" /></a>
 </p>
