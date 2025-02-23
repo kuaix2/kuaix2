@@ -1,5 +1,12 @@
 ![Shu-han Chuang](https://github.com/user-attachments/assets/3b5d7263-e2e6-4d22-9ac1-345ba2d5f9d9)
 
+<p align="center">
+  ✨ <a href="https://your-portfolio-link.com" style="color: white; text-decoration: none;">My Portfolio</a> ✨ <br>
+  ︶⊹︶︶୨୧︶︶⊹︶
+</p>
+
+
+
 <h3 align="middle">Connect with me:</h3>
 
 <p align="middle">
@@ -16,3 +23,4 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
