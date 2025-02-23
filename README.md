@@ -1,5 +1,7 @@
 ![Shu-han Chuang](https://github.com/user-attachments/assets/3b5d7263-e2e6-4d22-9ac1-345ba2d5f9d9)
 
+<span style="font-family: 'Georgia', serif; font-size: 20px; color: #333;">This is elegant text.</span>
+
 <h1 align="center">Hi 👋, I'm Shu-han</h1>
 <h3 align="center">A passionate developer</h3>
 
