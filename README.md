@@ -1,4 +1,5 @@
-![Shu-han Chuang](https://github.com/user-attachments/assets/3b5d7263-e2e6-4d22-9ac1-345ba2d5f9d9)
+![Shu-han Chuang (2)](https://github.com/user-attachments/assets/afdd6f7c-5ba1-43bc-b22d-10d815f87082)
+
 <br>
 <p align="center">
   ✨ <a href="https://kuaix2.github.io/" style="color: white; text-decoration: none;">My Portfolio</a> ✨ <br><br>
